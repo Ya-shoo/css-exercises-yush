@@ -1,0 +1,16 @@
+.odd-numbered {
+    background-color: #ec8fa6;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#blue-guy {
+    color: #196a99;
+    font-size: 36px;
+}
+.odd-numbered.cool-guy {
+    font-size: 24px;
+}
+#green-guy {
+    background-color: #aedb59;
+    font-size: 24px;
+    font-weight: bold;
+}
