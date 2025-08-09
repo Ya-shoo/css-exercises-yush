@@ -24,3 +24,39 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* my work */
+
+.title{
+ display: flex;
+ justify-content: center;
+ margin-bottom: 32px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.barberry, .chilli, .pepper, .saffron {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-basis: 200px;
+  flex-wrap: wrap;
+
+  /* testing purposes */
+  /* border-radius: .5em;
+  border-style: solid;
+  border-color: blueviolet;
+  background-color: aliceblue;
+  margin: 5px; */
+}
+
+.text {
+  /* border: solid red; */
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
